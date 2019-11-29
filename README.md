@@ -1,2 +1,2 @@
-# Book Exercise 2
+# Practice Directory
 
